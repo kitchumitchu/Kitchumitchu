@@ -3,7 +3,7 @@
 KitchuMitchu is an action-packed, puzzle-solving adventure where players embark on a journey through a magical world filled with mystical creatures and mind-bending challenges! 🧩🌟
 
 Game Features:
-🧙‍♂️ Magical Worlds: Explore enchanting realms, from enchanted forests to mysterious castles.
+🧙‍♂️ Explore enchanting realms, from enchanted forests to mysterious castles.
 
 🎯 Challenging Puzzles: Test your brainpower with a variety of unique and engaging puzzles.
 
